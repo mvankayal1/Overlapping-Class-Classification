@@ -65,10 +65,6 @@ This repository contains only:
 
 Large datasets and model binaries are intentionally excluded to maintain reproducibility and avoid oversized Git tracking.
 
-## 🗣 Interview-Safe Summary
-
-> *“Crisp decision methods give certainty-driven single-label predictions. PNN computes distance-based density estimates to retain uncertainty-aware confidence, making it theoretically stronger for overlapping class analysis.”*
-
 ## 📎 Future Scope
 
 * Kernel sigma optimization for PNN
