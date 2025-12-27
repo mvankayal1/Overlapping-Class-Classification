@@ -75,12 +75,3 @@ Large datasets and model binaries are intentionally excluded to maintain reprodu
 * Unbiased normalization across all models
 * Exploring fully Bayesian posterior-inferred neural approaches
 
----
-
-⭐ If you want, I can now also help you:
-
-1. generate a **GitHub repo banner image**
-2. create a **commit message template**
-3. simulate a **project-based interview**
-
-Just say: `NEXT`
