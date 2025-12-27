@@ -1,0 +1,30 @@
+# Ignore PDFs and docs unless explicitly added
+
+*.docx
+*.pages
+*.pttx
+*.pbtx
+*.ptbx
+*.ods
+*.xlsx
+*.dylib
+*.pth
+*.h5
+*.bin
+
+# Ignore system and cache files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore project reports and exports you don't want pushed
+ML Project Report(pdf).pdf
+ML Project Report(docx).docx
+ML Project Report(docx).docx
+ML Project Review-1.pdf
+ML Project Review-2.pptx
+ML Project Report.pdf
+Project Report.pages
+
+
+
